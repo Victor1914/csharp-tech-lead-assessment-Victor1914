@@ -1,0 +1,70 @@
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.endpoints.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.exe
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.deps.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.runtimeconfig.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.pdb
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfo.cs
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\scopedcss\bundle\ProductsAPI.styles.css
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\Products.2F20E4EC.Up2Date
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
+C:\Users\villy\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.endpoints.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.exe
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.deps.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.runtimeconfig.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.pdb
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfo.cs
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\scopedcss\bundle\ProductsAPI.styles.css
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\Products.2F20E4EC.Up2Date
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
+C:\Users\villy\Downloads\Logifuture Assessment\Task1\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
