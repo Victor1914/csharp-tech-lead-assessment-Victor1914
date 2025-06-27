@@ -12,7 +12,8 @@ In a real .NET application, you would use the [Confluent.Kafka](https://github.c
 Here’s how you would configure a Kafka producer:
 
 ```csharp
-var config = new ProducerConfig { BootstrapServers = "localhost:9092" }; var producer = new ProducerBuilder<Null, string>(config).Build();
+var config = new ProducerConfig { BootstrapServers = "localhost:9092" }; 
+var producer = new ProducerBuilder<Null, string>(config).Build();
 ```
 
 ---
@@ -33,43 +34,53 @@ Below is a conceptual example of how you would serialize the product and publish
 
 
 ```csharp
-using Confluent.Kafka; using System.Text.Json; using ProductsAPI.Models;
+using Confluent.Kafka; 
+using ProductsAPI.Models;
+using System.Text.Json; 
 
-public class ProductPublisher { private readonly IProducer<Null, string> _producer;
-public ProductPublisher(IProducer<Null, string> producer)
+public class ProductPublisher
 {
-    _producer = producer;
-}
+    private readonly IProducer<Null, string> _producer;
 
-public async Task PublishProductCreatedAsync(Product product)
-{
-    string message = JsonSerializer.Serialize(product);
-
-    try
+    public ProductPublisher(IProducer<Null, string> producer)
     {
-        var result = await _producer.ProduceAsync(
-            "products-created",
-            new Message<Null, string> { Value = message }
-        );
-        // Optionally log result
+        _producer = producer;
     }
-    catch (ProduceException<Null, string> ex)
+
+    public async Task PublishProductCreatedAsync(Product product)
     {
-        // Handle error, e.g., log and implement retry logic
-        int retries = 3;
-        while (retries-- > 0)
+        string message = JsonSerializer.Serialize(product);
+
+        try
         {
-            try
+            var result = await _producer.ProduceAsync(
+                "products-created", 
+                new Message<string, string> { Key = product.Id.ToString(), Value = message }
+            );
+            // Optionally log result
+        }
+        catch (ProduceException<Null, string> ex)
+        {
+            // Handle error, e.g., log and implement retry logic
+            int retries = 3;
+            while (retries-- > 0)
             {
-                await _producer.ProduceAsync("products-created", new Message<Null, string> { Value = message });
-                break;
-            }
-            catch
-            {
-                if (retries == 0) 
-				throw;
-				
-                await Task.Delay(500);
+                try
+                {
+                    await _producer.ProduceAsync(
+                        "products-created", 
+                        new Message<string, string> { Key = product.Id.ToString(), Value = message }
+                        );
+
+                    break;
+                }
+                catch
+                {
+                    if (retries == 0)
+                        throw;
+
+                    await Task.Delay(500);
+                }
             }
         }
     }
