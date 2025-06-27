@@ -1,6 +1,4 @@
-﻿# architecture.md
-
-# 📐 High-Level Architecture Proposal for Scalable Product API
+﻿# 📐 High-Level Architecture Proposal for Scalable Product API
 
 ## 1. Deployment: Kubernetes (k8s) Environment
 
@@ -18,15 +16,12 @@
   - Internal services communicate via DNS names provided by Kubernetes Services.
   - External access via Ingress Controller (e.g., NGINX Ingress) with HTTPS termination.
 
-**Example Diagram:**  
-![K8s Deployment Diagram](https://i.imgur.com/8kQwQwF.png)
-
 ---
 
 ## 2. Data Storage: Persistent & Scalable
 
 - **Production Choice:**  
-  - Use a managed relational database (e.g., PostgreSQL, Azure SQL, Amazon RDS) for strong consistency, ACID transactions, and structured data.
+  - Use a managed relational database (e.g., PostgreSQL, MS SQL, Azure SQL, Amazon RDS) for strong consistency, ACID transactions, and structured data.
   - For high write/read throughput or flexible schema, consider a NoSQL solution (e.g., MongoDB, Cosmos DB).
 
 - **Justification:**  
@@ -114,9 +109,8 @@ flowchart TD
         API -- "Publish Events" --> Kafka
         Kafka -- "Consume Events" --> OtherServices["Other Microservices"]
     end
-    User["User/Client"] -- "HTTP(S) via Ingress"
+    User["User/Client"] -- "HTTP(S) via Ingress" --> API
 ```
----
 
 ## Summary Table
 
